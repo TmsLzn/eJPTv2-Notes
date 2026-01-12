@@ -4,8 +4,6 @@ description: Apuntes del eJPTv2 by Tomás Lozano Romero
 
 # 🏆eJPTv2 Notes
 
-## 🏆 Road to eJPTv2 - INE
-
 ## 📚 Apuntes y Cheat Sheet
 
 [1º - Information Gathering & Enumeration](1%C2%BA%20-%20Information%20Gathering%20&%20Enumeration%2029ed99f8dbaa8093845fffd0fdb968bd.md)
@@ -25,7 +23,3 @@ description: Apuntes del eJPTv2 by Tomás Lozano Romero
 [Netcat](Netcat%202cbd99f8dbaa80718832ec7baa21dbc6.md)
 
 [TTY Spawning - Tratamiento TTY](TTY%20Spawning%20-%20Tratamiento%20TTY%202d0d99f8dbaa807dbb25ea999843f691.md)
-
-## 💻 Máquinas externas
-
-[labs1.csv](labs1.csv)
