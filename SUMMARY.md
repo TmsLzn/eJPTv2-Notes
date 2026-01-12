@@ -2,7 +2,7 @@
 
 * [🏆eJPTv2 Notes](README.md)
 * [Contenido](contenido/README.md)
-  * [1º - Information Gathering & Enumeration 29ed99f8dbaa8093845fffd0fdb968bd](<Contenido/1º - Information Gathering & Enumeration 29ed99f8dbaa8093845fffd0fdb968bd.md>)
+  * [1º - Information Gathering & Enumeration](<Contenido/1º - Information Gathering & Enumeration 29ed99f8dbaa8093845fffd0fdb968bd.md>)
   * [2º - Vectores de entrada ( Servicios )](<Contenido/2º - Vectores de entrada ( Servicios ) 2d8d99f8dbaa800baa08f80c0fb7d0e5.md>)
   * [3º - Ataques Basados en Host Windows 2a7d99f8dbaa800ca369d5c2651d8f2a](<Contenido/3º - Ataques Basados en Host Windows 2a7d99f8dbaa800ca369d5c2651d8f2a.md>)
   * [4º - Ataques Basados en Host - Linux 2a7d99f8dbaa806db8c4d94ca872fbc0](<Contenido/4º - Ataques Basados en Host - Linux 2a7d99f8dbaa806db8c4d94ca872fbc0.md>)
